@@ -1,0 +1,372 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
+Theme = Light
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	InvertColors = false
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	SquigglyColor = #ff00ff
+	StrikeOutColor = #ff0000
+	FreeTextColor = 
+	FreeTextSize = 12
+	FreeTextBorderWidth = 1
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+	[
+		Cmd = CmdNone
+		Key = p
+	]
+	[
+		Cmd = CmdFindNext
+		Key = n
+	]
+	[
+		Cmd = CmdFindPrev
+		Key = N
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = P
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = [
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = a
+	]
+	[
+		Cmd = CmdGoToNextPage
+		Key = d
+	]
+	[
+		Cmd = CmdGoToNextPage
+		Key = ]
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = u
+	]
+	[
+		Cmd = CmdScrollDown n:40
+		Key = j
+	]
+	[
+		Cmd = CmdScrollUp n:40
+		Key = k
+	]
+	[
+		Cmd = CmdNextTab
+		Key = L
+	]
+	[
+		Cmd = CmdPrevTab
+		Key = H
+	]
+	[
+		Cmd = CmdToggleTableOfContents
+		Key = Ctrl + b
+	]
+	[
+		Cmd = CmdRenameFile
+		Key = Ctrl + r
+	]
+]
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #80fff200
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = false
+ShowFavorites = false
+ShowToc = true
+NoHomeTab = true
+TocDy = 0
+SidebarDx = 356
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+TreeFontWeightOffset = 0
+TreeFontName = automatic
+SmoothScroll = false
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 1
+WindowPos = 950 54 979 1755
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\q1\MATH 33B - Differential Equations\Final Graded.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 38.0629
+		PageNo = 3
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 950 54 979 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\q1\MATH 33B - Differential Equations\Math 33B Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 254.766 46.4532
+		PageNo = 2
+		Zoom = 400
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1430 54 1459 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\q1\MATH 33B - Differential Equations\Discussion Notes\week 10 discussion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 9.7503 495.75
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1430 54 1459 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\q1\MATH 33B - Differential Equations\Midterm 1 Graded.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 0.7505
+		PageNo = 1
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\Documents\ACT Prep\PT1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 7.37345
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\Desktop\piano\Por Una Cabeza.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\UCLA Transcript.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Missed Lecture Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 691.65
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\q1\EPS SCI 16 - Major Events in the History of Life\Final Notes 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -9 54 2898 1755
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Namanh_Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2902 1811
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1 3 6
+	]
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = C:\Users\nicol\OneDrive\college\q1\MATH 33B - Differential Equations\Final Graded.pdf
+				DisplayMode = continuous
+				PageNo = 3
+				Zoom = 100
+				Rotation = 0
+				ScrollPos = -1 38.0629
+				ShowToc = false
+			]
+		]
+		TabIndex = 1
+		WindowState = 1
+		WindowPos = 950 54 979 1755
+		SidebarDx = 356
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 729
+
+# Settings below are not recognized by the current version
