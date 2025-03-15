@@ -40,12 +40,12 @@ Annotations [
 	UnderlineColor = #00ff00
 	SquigglyColor = #ff00ff
 	StrikeOutColor = #ff0000
-	FreeTextColor = 
+	FreeTextColor =
 	FreeTextSize = 12
 	FreeTextBorderWidth = 1
-	TextIconColor = 
-	TextIconType = 
-	DefaultAuthor = 
+	TextIconColor =
+	TextIconType =
+	DefaultAuthor =
 ]
 
 RememberOpenedFiles = true
@@ -54,7 +54,7 @@ RestoreSession = true
 UiLanguage = en
 EnableTeXEnhancements = false
 DefaultDisplayMode = automatic
-DefaultZoom = fit page
+DefaultZoom = fit content
 Shortcuts [
 	[
 		Cmd = CmdNone
@@ -121,7 +121,7 @@ EscToExit = false
 ReuseInstance = false
 ReloadModifiedDocuments = true
 
-MainWindowBackground = #80fff200
+MainWindowBackground = #111111
 FullPathInTitle = false
 ShowMenubar = true
 ShowToolbar = false
@@ -146,17 +146,37 @@ CustomScreenDPI = 0
 
 FileStates [
 	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPractice.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 100.253
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
 		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPracticeSolution.pdf
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 1
+		OpenCount = 3
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 1
-		Zoom = fit page
+		ScrollPos = -1 86.5503
+		PageNo = 3
+		Zoom = 125
 		Rotation = 0
 		WindowState = 1
 		WindowPos = 1429 52 1462 1757
@@ -293,14 +313,23 @@ SessionData [
 			[
 				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPracticeSolution.pdf
 				DisplayMode = continuous
-				PageNo = 1
+				PageNo = 3
+				Zoom = 125
+				Rotation = 0
+				ScrollPos = -1 86.5503
+				ShowToc = false
+			]
+			[
+				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPractice.pdf
+				DisplayMode = continuous
+				PageNo = 3
 				Zoom = fit page
 				Rotation = 0
-				ScrollPos = -1 -1
+				ScrollPos = -1 100.253
 				ShowToc = false
 			]
 		]
-		TabIndex = 1
+		TabIndex = 2
 		WindowState = 1
 		WindowPos = 1429 52 1462 1757
 		SidebarDx = 356
