@@ -116,6 +116,10 @@ Shortcuts [
 		Cmd = CmdRenameFile
 		Key = Ctrl + r
 	]
+  [
+    Cmd = CmdZoomFitContent
+    Key = Z
+  ]
 ]
 EscToExit = false
 ReuseInstance = false
