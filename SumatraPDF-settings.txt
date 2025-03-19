@@ -68,10 +68,6 @@ Shortcuts [
     Cmd = CmdGoToPage
     Key = :
   ]
-  [
-    Cmd = CmdGoToLastPage
-    Key = G
-  ]
 	[
 		Cmd = CmdNone
 		Key = p
