@@ -56,6 +56,22 @@ EnableTeXEnhancements = false
 DefaultDisplayMode = automatic
 DefaultZoom = fit content
 Shortcuts [
+  [
+    Cmd = CmdGoToLastPage
+    Key = G
+  ]
+  [
+    Cmd = CmdGoToFirstPage
+    Key = g
+  ]
+  [
+    Cmd = CmdGoToPage
+    Key = :
+  ]
+  [
+    Cmd = CmdGoToLastPage
+    Key = G
+  ]
 	[
 		Cmd = CmdNone
 		Key = p
@@ -116,10 +132,10 @@ Shortcuts [
 		Cmd = CmdRenameFile
 		Key = Ctrl + r
 	]
-  [
-    Cmd = CmdZoomFitContent
-    Key = Z
-  ]
+	[
+		Cmd = CmdZoomFitContent
+		Key = Z
+	]
 ]
 EscToExit = false
 ReuseInstance = false
