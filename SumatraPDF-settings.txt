@@ -57,6 +57,14 @@ DefaultDisplayMode = automatic
 DefaultZoom = fit content
 Shortcuts [
 	[
+		Cmd = CmdReopenLastClosedFile
+		Key = X
+	]
+	[
+		Cmd = CmdClose
+		Key = x
+	]
+	[
 		Cmd = CmdCreateAnnotFreeText
 		Key = F
 	]
@@ -159,12 +167,72 @@ SmoothScroll = false
 ShowStartPage = true
 CheckForUpdates = true
 WindowState = 1
-WindowPos = -11 52 767 1757
+WindowPos = -11 52 1454 1757
 UseTabs = true
 UseSysColors = false
 CustomScreenDPI = 0
 
 FileStates [
+	[
+		FilePath = C:\Users\nicol\Downloads\ECE3_pre-lab_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 7
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1454 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 6
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 48.5629 -1
+		PageNo = 4
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1454 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Lab 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 87.5629 241.688
+		PageNo = 11
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1454 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
 	[
 		FilePath = C:\Program Files (x86)\Digilent\WaveFormsSDK\WaveForms SDK Reference Manual.pdf
 		Favorites [
@@ -186,26 +254,6 @@ FileStates [
 		ReparseIdx = 0
 	]
 	[
-		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Lab 1.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 2
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = 87.5629 241.688
-		PageNo = 11
-		Zoom = 100
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 52 767 1757
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
 		FilePath = C:\Users\nicol\Downloads\Welcome%20Lecture%2025S.pdf
 		Favorites [
 		]
@@ -221,46 +269,6 @@ FileStates [
 		WindowState = 1
 		WindowPos = -11 52 1462 1757
 		ShowToc = true
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\ECE3_pre-lab_1.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 1
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 71.3571
-		PageNo = 1
-		Zoom = fit width
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 52 767 1757
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 5
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = 48.5629 -1
-		PageNo = 4
-		Zoom = 100
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 52 767 1757
-		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
 		ReparseIdx = 0
@@ -1053,6 +1061,15 @@ SessionData [
 	[
 		TabStates [
 			[
+				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Lab 1.pdf
+				DisplayMode = continuous
+				PageNo = 11
+				Zoom = 100
+				Rotation = 0
+				ScrollPos = 87.5629 241.688
+				ShowToc = false
+			]
+			[
 				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
 				DisplayMode = continuous
 				PageNo = 4
@@ -1067,13 +1084,13 @@ SessionData [
 				PageNo = 1
 				Zoom = fit width
 				Rotation = 0
-				ScrollPos = -1 71.3571
+				ScrollPos = -1 -1
 				ShowToc = false
 			]
 		]
-		TabIndex = 2
+		TabIndex = 3
 		WindowState = 1
-		WindowPos = -11 52 767 1757
+		WindowPos = -11 52 1454 1757
 		SidebarDx = 356
 	]
 ]
