@@ -1,5 +1,5 @@
 ﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
-Theme = Darker
+Theme = Dark
 FixedPageUI [
 	TextColor = #000000
 	BackgroundColor = #ffffff
@@ -40,12 +40,12 @@ Annotations [
 	UnderlineColor = #00ff00
 	SquigglyColor = #ff00ff
 	StrikeOutColor = #ff0000
-	FreeTextColor =
+	FreeTextColor = 
 	FreeTextSize = 12
 	FreeTextBorderWidth = 1
-	TextIconColor =
-	TextIconType =
-	DefaultAuthor =
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
 ]
 
 RememberOpenedFiles = true
@@ -56,18 +56,22 @@ EnableTeXEnhancements = false
 DefaultDisplayMode = automatic
 DefaultZoom = fit content
 Shortcuts [
-  [
-    Cmd = CmdGoToLastPage
-    Key = G
-  ]
-  [
-    Cmd = CmdGoToFirstPage
-    Key = g
-  ]
-  [
-    Cmd = CmdGoToPage
-    Key = :
-  ]
+	[
+		Cmd = CmdCreateAnnotFreeText
+		Key = F
+	]
+	[
+		Cmd = CmdGoToLastPage
+		Key = G
+	]
+	[
+		Cmd = CmdGoToFirstPage
+		Key = g
+	]
+	[
+		Cmd = CmdGoToPage
+		Key = :
+	]
 	[
 		Cmd = CmdNone
 		Key = p
@@ -155,12 +159,554 @@ SmoothScroll = false
 ShowStartPage = true
 CheckForUpdates = true
 WindowState = 1
-WindowPos = 1429 52 1462 1757
+WindowPos = -11 52 767 1757
 UseTabs = true
 UseSysColors = false
 CustomScreenDPI = 0
 
 FileStates [
+	[
+		FilePath = C:\Program Files (x86)\Digilent\WaveFormsSDK\WaveForms SDK Reference Manual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 63.4585 34.4224
+		PageNo = 7
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1462 1757
+		ShowToc = true
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Lab 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 87.5629 241.688
+		PageNo = 11
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 767 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Welcome%20Lecture%2025S.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 14
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1462 1757
+		ShowToc = true
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\ECE3_pre-lab_1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 71.3571
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 767 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 48.5629 -1
+		PageNo = 4
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 767 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 578.063
+		PageNo = 2
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE M16 - Logic Design of Digital Systems\M16 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\PHYS 1B\1B Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 69.975 73.0764
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\PHYSICS 1A - Physics (Mechanics)\University Physics with Modern Physics 15th Edition By Hugh D. Young.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1909 52 982 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\Documents\HRBlock\2025 taxes\2025 virginia.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 5
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 738.563
+		PageNo = 3
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3 - Intro to EE\ECE3 Lab 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 9
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 51.8666 59.8768
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\pdf24_merged.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 24.9292 57.19
+		PageNo = 12
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\Math 61 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 94.6879 732.563
+		PageNo = 2
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 949 52 982 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\Math 61 Lecture Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 394.65
+		PageNo = 27
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = true
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 4 10 19
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\Final Practice.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 17.2781 278.317
+		PageNo = 2
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3 - Intro to EE\ECE3 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 41.797 54.4379
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\project 4 spec.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 28.1814 72.0186
+		PageNo = 14
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 5
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\PHY_1A_W2025_Discussions_Week10_Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 25.3129
+		PageNo = 3
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Final Exam Formula Sheet.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 76.4163
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\PHY_1A_W2025_Discussions_Week9_Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 782.276
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\PHY_1A_W2025_Discussions_Week8_Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 262.35
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\PHY_1A_W2025_Discussions_Week7_Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 580.95
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\Documents\HRBlock\2025 taxes\preview.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 2902 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\PHYSICS 1A - Physics (Mechanics)\Physics 1A Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 69.1551 77.4916
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\week6.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\week5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 408.625
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\PHY_1A_W2025_Discussions_Week4_Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
 	[
 		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPractice.pdf
 		Favorites [
@@ -170,12 +716,192 @@ FileStates [
 		OpenCount = 2
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 100.253
-		PageNo = 3
-		Zoom = fit page
+		ScrollPos = -1 18.1252
+		PageNo = 4
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1486 52 1405 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\MATH 61 Combinatorics Notes.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
 		Rotation = 0
 		WindowState = 1
 		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\Secondary Lecture Notes Part 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\Old Midterm 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\MATH 61 - Intro to Discrete Structures\MTH 61 HW 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\Documents\extra.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 26.1792 52.5675
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\containers.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 26.1861 106.629
+		PageNo = 4
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\sorting.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 224.751
+		PageNo = 4
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = \\wsl.localhost\Ubuntu-22.04\home\nicolas\college\Year1\Winter\cs32\discussions\wk10reviewsoln.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 682.464
+		PageNo = 8
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 52 1462 1757
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\preview.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 558.871
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 52 1487 1757
 		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
@@ -187,15 +913,15 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 3
+		OpenCount = 0
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 86.5503
-		PageNo = 3
-		Zoom = 125
+		ScrollPos = -1 747.244
+		PageNo = 9
+		Zoom = 66.67
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 1429 52 1462 1757
+		WindowPos = -11 52 1146 1757
 		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
@@ -327,31 +1053,31 @@ SessionData [
 	[
 		TabStates [
 			[
-				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPracticeSolution.pdf
+				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
 				DisplayMode = continuous
-				PageNo = 3
-				Zoom = 125
+				PageNo = 4
+				Zoom = 100
 				Rotation = 0
-				ScrollPos = -1 86.5503
+				ScrollPos = 48.5629 -1
 				ShowToc = false
 			]
 			[
-				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Winter\CS 32 - Intro to Computer Science II\ChangFinalPractice.pdf
+				FilePath = C:\Users\nicol\Downloads\ECE3_pre-lab_1.pdf
 				DisplayMode = continuous
-				PageNo = 3
-				Zoom = fit page
+				PageNo = 1
+				Zoom = fit width
 				Rotation = 0
-				ScrollPos = -1 100.253
+				ScrollPos = -1 71.3571
 				ShowToc = false
 			]
 		]
 		TabIndex = 2
 		WindowState = 1
-		WindowPos = 1429 52 1462 1757
+		WindowPos = -11 52 767 1757
 		SidebarDx = 356
 	]
 ]
 TimeOfLastUpdateCheck = 0 0
-OpenCountWeek = 741
+OpenCountWeek = 743
 
 # Settings below are not recognized by the current version
