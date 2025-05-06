@@ -40,12 +40,12 @@ Annotations [
 	UnderlineColor = #00ff00
 	SquigglyColor = #ff00ff
 	StrikeOutColor = #ff0000
-	FreeTextColor = 
+	FreeTextColor =
 	FreeTextSize = 12
 	FreeTextBorderWidth = 1
-	TextIconColor = 
-	TextIconType = 
-	DefaultAuthor = 
+	TextIconColor =
+	TextIconType =
+	DefaultAuthor =
 ]
 
 RememberOpenedFiles = true
@@ -167,14 +167,14 @@ SmoothScroll = false
 ShowStartPage = true
 CheckForUpdates = true
 WindowState = 1
-WindowPos = 1429 46 1462 1763
+WindowPos = 795 134 1290 1587
 UseTabs = true
 UseSysColors = false
 CustomScreenDPI = 0
 
 FileStates [
 	[
-		FilePath = C:\Users\nicol\Downloads\ECE 3 Lab Tools Extra Credit.pdf
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\Syllabus.pdf
 		Favorites [
 		]
 		IsPinned = false
@@ -182,12 +182,12 @@ FileStates [
 		OpenCount = 2
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 -1
+		ScrollPos = 45.8753 47.8753
 		PageNo = 1
-		Zoom = fit content
+		Zoom = 150
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 1429 46 1462 1763
+		WindowPos = 795 134 1290 1587
 		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
@@ -199,22 +199,22 @@ FileStates [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 8
+		OpenCount = 13
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = -1 95.8129
-		PageNo = 3
-		Zoom = 100
+		ScrollPos = 58.8861 212.334
+		PageNo = 4
+		Zoom = fit content
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 949 46 982 1763
+		WindowPos = 1429 46 1462 1763
 		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
 		ReparseIdx = 0
 	]
 	[
-		FilePath = C:\Users\nicol\Downloads\HW 5 25S.pdf
+		FilePath = C:\Users\nicol\Downloads\Unit 2 Report Timeline.docx.pdf
 		Favorites [
 		]
 		IsPinned = false
@@ -227,32 +227,31 @@ FileStates [
 		Zoom = fit content
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = true
+		WindowPos = 1601 46 1290 1763
+		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
 		ReparseIdx = 0
 	]
 	[
-		FilePath = C:\Users\nicol\Downloads\Post-Lab-Week-5.pdf
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\PHYS 1B\1B Syllabus.pdf
 		Favorites [
 		]
 		IsPinned = false
 		IsMissing = false
-		OpenCount = 2
+		OpenCount = 1
 		UseDefaultState = false
 		DisplayMode = continuous
-		ScrollPos = 33.403 72.0504
-		PageNo = 10
+		ScrollPos = 74.6728 46.3555
+		PageNo = 1
 		Zoom = fit content
 		Rotation = 0
 		WindowState = 1
-		WindowPos = 1233 46 982 1763
+		WindowPos = 1601 46 1290 1763
 		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
 		ReparseIdx = 0
-		TocState = 1
 	]
 	[
 		FilePath = C:\Users\nicol\Downloads\Summer 2025 NASA Letter.pdf
@@ -296,127 +295,6 @@ FileStates [
 		TocState = 1
 	]
 	[
-		FilePath = C:\Users\nicol\Downloads\Hacktech Packet.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 5
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 5
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\Pre-Lab-Week-5.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 1
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = 32.5299 111.678
-		PageNo = 12
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-		TocState = 1
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\plots_with_histogram.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 1
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 4
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\plots_downsampled_5s.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 6
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\plots_A4_quadrants.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 5
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1429 46 1462 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\Lecture#4.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 1
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 482.25
-		PageNo = 5
-		Zoom = 75
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 46 2902 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
 		FilePath = C:\Users\nicol\Downloads\Practice Midterm #1 Solutions.pdf
 		Favorites [
 		]
@@ -428,46 +306,6 @@ FileStates [
 		ScrollPos = -1 736.279
 		PageNo = 4
 		Zoom = fit width
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 46 2902 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\Lecture#5.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = 10.3129 140.063
-		PageNo = 3
-		Zoom = 100
-		Rotation = 0
-		WindowState = 1
-		WindowPos = 1509 46 1382 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\Downloads\University Physics with Modern Physics, Young and Freedman, 15th Edition [337-541].pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 -1
-		PageNo = 50
-		Zoom = fit content
 		Rotation = 0
 		WindowState = 1
 		WindowPos = -11 46 2902 1763
@@ -497,26 +335,6 @@ FileStates [
 		ReparseIdx = 0
 	]
 	[
-		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\PHYS 1B\1B Syllabus.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 73.1951
-		PageNo = 1
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 46 2902 1763
-		ShowToc = false
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
 		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\ECE 3\ECE3 Lab 1.pdf
 		Favorites [
 		]
@@ -532,26 +350,6 @@ FileStates [
 		WindowState = 1
 		WindowPos = -11 46 2902 1763
 		ShowToc = true
-		SidebarDx = 356
-		DisplayR2L = false
-		ReparseIdx = 0
-	]
-	[
-		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Lab 1.pdf
-		Favorites [
-		]
-		IsPinned = false
-		IsMissing = false
-		OpenCount = 0
-		UseDefaultState = false
-		DisplayMode = continuous
-		ScrollPos = -1 106.445
-		PageNo = 1
-		Zoom = fit content
-		Rotation = 0
-		WindowState = 1
-		WindowPos = -11 46 2902 1763
-		ShowToc = false
 		SidebarDx = 356
 		DisplayR2L = false
 		ReparseIdx = 0
@@ -719,23 +517,345 @@ FileStates [
 		DisplayR2L = false
 		ReparseIdx = 0
 	]
+	[
+		FilePath = C:\Users\nicol\Downloads\JeffZhou_Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 163.05
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2902 1811
+		ShowToc = true
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Onboarding - Nick.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 66.4753
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2902 1811
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Fly_Me_to_the_Moon.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 193.126
+		PageNo = 1
+		Zoom = 50
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 2008 46 883 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\ECE 3 Lab Tools Extra Credit.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\HW 5 25S.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = true
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Post-Lab-Week-5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 33.403 72.0504
+		PageNo = 10
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1233 46 982 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Hacktech Packet.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 5
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Pre-Lab-Week-5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 32.5299 111.678
+		PageNo = 12
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\plots_with_histogram.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 4
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\plots_downsampled_5s.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 6
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\plots_A4_quadrants.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 5
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1429 46 1462 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Lecture#4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 482.25
+		PageNo = 5
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 46 2902 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\Lecture#5.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 10.3129 140.063
+		PageNo = 3
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1509 46 1382 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\Downloads\University Physics with Modern Physics, Young and Freedman, 15th Edition [337-541].pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 50
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 46 2902 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 65.6081 70.4354
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1745 46 1146 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\CS 33 Lab 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 106.445
+		PageNo = 1
+		Zoom = fit content
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 46 2902 1763
+		ShowToc = false
+		SidebarDx = 356
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
 ]
 SessionData [
 	[
 		TabStates [
 			[
-				FilePath = C:\Users\nicol\Downloads\ECE 3 Lab Tools Extra Credit.pdf
+				FilePath = C:\Users\nicol\OneDrive\college\Year 1\Spring\CS 33\Syllabus.pdf
 				DisplayMode = continuous
 				PageNo = 1
-				Zoom = fit content
+				Zoom = 150
 				Rotation = 0
-				ScrollPos = -1 -1
+				ScrollPos = 45.8753 47.8753
 				ShowToc = false
 			]
 		]
 		TabIndex = 1
 		WindowState = 1
-		WindowPos = 1429 46 1462 1763
+		WindowPos = 795 134 1290 1587
 		SidebarDx = 356
 	]
 ]
