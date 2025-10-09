@@ -106,11 +106,27 @@ Shortcuts [
 	]
 	[
 		Cmd = CmdGoToNextPage
+		Key = Ctrl+d
+	]
+	[
+		Cmd = CmdGoToNextPage
+		Key = J
+	]
+	[
+		Cmd = CmdGoToNextPage
 		Key = d
 	]
 	[
 		Cmd = CmdGoToNextPage
 		Key = ]
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = Ctrl+u
+	]
+	[
+		Cmd = CmdGoToPrevPage
+		Key = K
 	]
 	[
 		Cmd = CmdGoToPrevPage
