@@ -57,6 +57,10 @@ DefaultDisplayMode = continuous
 DefaultZoom = fit content
 Shortcuts [
 	[
+		Cmd = CmdOpenWithExplorer
+		Key = Ctrl+return
+	]
+	[
 		Cmd = CmdReopenLastClosedFile
 		Key = X
 	]
