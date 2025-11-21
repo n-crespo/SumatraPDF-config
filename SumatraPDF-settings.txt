@@ -7,7 +7,7 @@ FixedPageUI [
 	WindowMargin = 2 4 2 4
 	PageSpacing = 4 4
 	InvertColors = false
-	HideScrollbars = false
+	HideScrollbars = true
 ]
 ComicBookUI [
 	WindowMargin = 0 0 0 0
@@ -48,7 +48,7 @@ Annotations [
 	DefaultAuthor =
 ]
 
-RememberOpenedFiles = true
+RememberOpenedFiles = false
 RememberStatePerDocument = true
 RestoreSession = false
 UiLanguage = en
