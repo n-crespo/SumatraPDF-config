@@ -1,5 +1,40 @@
-﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-5-1.html
-Theme = Darker
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-6.html
+
+CheckForUpdates = true
+CustomScreenDPI = 0
+DefaultDisplayMode = continuous
+DefaultZoom = fit content
+EnableTeXEnhancements = false
+EscToExit = false
+FullPathInTitle = false
+LazyLoading = true
+MainWindowBackground = #ffffff
+NoHomeTab = true
+ReloadModifiedDocuments = true
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+ReuseInstance = false
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+ShowLinks = false
+ShowStartPage = true
+SidebarDx = 238
+SmoothScroll = false
+TabWidth = 300
+Theme = Dark background Bright text
+TocDy = 0
+ToolbarSize = 18
+TreeFontName = automatic
+TreeFontSize = 0
+UIFontSize = 0
+UseSysColors = false
+UseTabs = true
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
 FixedPageUI [
 	TextColor = #000000
 	BackgroundColor = #ffffff
@@ -9,32 +44,24 @@ FixedPageUI [
 	InvertColors = false
 	HideScrollbars = true
 ]
+
+EBookUI [
+	FontSize = 0
+	LayoutDx = 0
+	LayoutDy = 0
+	IgnoreDocumentCSS = false
+]
+
 ComicBookUI [
 	WindowMargin = 0 0 0 0
 	PageSpacing = 4 4
 	CbxMangaMode = false
 ]
+
 ChmUI [
 	UseFixedPageUI = false
 ]
 
-SelectionHandlers [
-]
-ExternalViewers [
-]
-
-ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
-ZoomIncrement = 0
-
-PrinterDefaults [
-	PrintScale = shrink
-]
-ForwardSearch [
-	HighlightOffset = 0
-	HighlightWidth = 15
-	HighlightColor = #6581ff
-	HighlightPermanent = false
-]
 Annotations [
 	HighlightColor = #ffff00
 	UnderlineColor = #00ff00
@@ -48,13 +75,23 @@ Annotations [
 	DefaultAuthor =
 ]
 
-RememberOpenedFiles = false
-RememberStatePerDocument = true
-RestoreSession = false
-UiLanguage = en
-EnableTeXEnhancements = false
-DefaultDisplayMode = continuous
-DefaultZoom = fit content
+ExternalViewers [
+]
+
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+
+SelectionHandlers [
+]
+
 Shortcuts [
 	[
 		Cmd = CmdOpenWithExplorer
@@ -165,34 +202,18 @@ Shortcuts [
 		Key = Z
 	]
 ]
-EscToExit = false
-ReuseInstance = false
-ReloadModifiedDocuments = true
 
-MainWindowBackground = #ffffff
-FullPathInTitle = false
-ShowMenubar = true
-ShowToolbar = false
-ShowFavorites = false
-ShowToc = true
-NoHomeTab = true
-TocDy = 0
-SidebarDx = 479
-ToolbarSize = 18
-TabWidth = 300
-TreeFontSize = 0
-TreeFontWeightOffset = 0
-TreeFontName = automatic
-SmoothScroll = false
-ShowStartPage = true
-CheckForUpdates = true
+Themes [
+]
+
+# You're not expected to change those manually
+UiLanguage = en
 WindowState = 1
-WindowPos = -11 44 1462 1767
-UseTabs = true
-UseSysColors = false
-CustomScreenDPI = 0
-
-TimeOfLastUpdateCheck = 31209046 -1874334834
-OpenCountWeek = 770
+WindowPos = 976 138 1435 1512
+SessionData [
+]
+TimeOfLastUpdateCheck = 31221885 -1554725311
+OpenCountWeek = 779
 
 # Settings below are not recognized by the current version
+TreeFontWeightOffset = 0
