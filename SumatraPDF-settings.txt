@@ -10,6 +10,7 @@ FullPathInTitle = false
 LazyLoading = true
 MainWindowBackground = #ffffff
 NoHomeTab = true
+HomePageSortByFrequentlyRead = false
 ReloadModifiedDocuments = true
 RememberOpenedFiles = true
 RememberStatePerDocument = true
@@ -22,7 +23,9 @@ ShowToc = true
 ShowLinks = false
 ShowStartPage = true
 SidebarDx = 238
+ScrollbarInSinglePage = false
 SmoothScroll = false
+FastScrollOverScrollbar = false
 TabWidth = 300
 Theme = Dark background Bright text
 TocDy = 0
@@ -206,18 +209,3 @@ Shortcuts [
 		Key = Z
 	]
 ]
-
-Themes [
-]
-
-# You're not expected to change those manually
-UiLanguage = en
-WindowState = 1
-WindowPos = 976 138 1435 1512
-SessionData [
-]
-TimeOfLastUpdateCheck = 31221885 -1554725311
-OpenCountWeek = 779
-
-# Settings below are not recognized by the current version
-TreeFontWeightOffset = 0
