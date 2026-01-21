@@ -178,11 +178,11 @@ Shortcuts [
 		Key = u
 	]
 	[
-		Cmd = CmdScrollDown n:40
+		Cmd = CmdScrollDown 3
 		Key = j
 	]
 	[
-		Cmd = CmdScrollUp n:40
+		Cmd = CmdScrollUp 3
 		Key = k
 	]
 	[
