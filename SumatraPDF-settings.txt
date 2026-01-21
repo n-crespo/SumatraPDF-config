@@ -94,6 +94,10 @@ SelectionHandlers [
 
 Shortcuts [
 	[
+		Cmd = CmdDeleteFile
+		Key = Ctrl+Backspace
+	]
+	[
 		Cmd = CmdOpenWithExplorer
 		Key = Ctrl+return
 	]
