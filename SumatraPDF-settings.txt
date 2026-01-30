@@ -27,7 +27,7 @@ ScrollbarInSinglePage = false
 SmoothScroll = false
 FastScrollOverScrollbar = false
 TabWidth = 300
-Theme = Dark background Bright text
+Theme = macro
 TocDy = 0
 ToolbarSize = 18
 TreeFontName = automatic
@@ -208,4 +208,14 @@ Shortcuts [
 		Cmd = CmdZoomFitContent
 		Key = Z
 	]
+]
+
+Themes [
+  [
+    Name = macro
+    TextColor = #C9C9C9
+    BackgroundColor = #202124
+    ColorizeControls = true
+    ControlBackgroundColor = #0f0f0f
+  ]
 ]
