@@ -13,10 +13,10 @@ NoHomeTab = false
 HomePageSortByFrequentlyRead = false
 ReloadModifiedDocuments = true
 RememberOpenedFiles = true
-RememberStatePerDocument = true
-RestoreSession = true
+RememberStatePerDocument = false
+RestoreSession = false
 ReuseInstance = true
-ShowMenubar = true
+ShowMenubar = false
 ShowToolbar = false
 ShowFavorites = false
 ShowToc = true
@@ -24,7 +24,7 @@ ShowLinks = true
 ShowStartPage = true
 SidebarDx = 359
 ScrollbarInSinglePage = false
-SmoothScroll = false
+SmoothScroll = true
 FastScrollOverScrollbar = false
 TabWidth = 300
 Theme = Light
@@ -85,7 +85,7 @@ ForwardSearch [
 	HighlightOffset = 0
 	HighlightWidth = 15
 	HighlightColor = #6581ff
-	HighlightPermanent = false
+	HighlightPermanent = true
 ]
 
 PrinterDefaults [
