@@ -163,7 +163,7 @@ Shortcuts [
 	]
 	[
 		Cmd = CmdGoToNextPage
-		Key = J
+		Key = j
 	]
 	[
 		Cmd = CmdGoToNextPage
@@ -179,7 +179,7 @@ Shortcuts [
 	]
 	[
 		Cmd = CmdGoToPrevPage
-		Key = K
+		Key = k
 	]
 	[
 		Cmd = CmdGoToPrevPage
@@ -187,11 +187,11 @@ Shortcuts [
 	]
 	[
 		Cmd = CmdScrollDown 3
-		Key = j
+		Key = J
 	]
 	[
 		Cmd = CmdScrollUp 3
-		Key = k
+		Key = K
 	]
 	[
 		Cmd = CmdNextTab
