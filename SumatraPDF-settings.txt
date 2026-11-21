@@ -195,11 +195,27 @@ Shortcuts [
 	]
 	[
 		Cmd = CmdNextTab
-		Key = L
+		Key = Ctrl+Shift+l
 	]
 	[
 		Cmd = CmdPrevTab
+		Key = Ctrl+Shift+h
+	]
+	[
+		Cmd = CmdScrollLeft
+		Key = h
+	]
+	[
+		Cmd = CmdScrollRight
+		Key = l
+	]
+	[
+		Cmd = CmdScrollLeft
 		Key = H
+	]
+	[
+		Cmd = CmdScrollRight
+		Key = L
 	]
 	[
 		Cmd = CmdToggleTableOfContents
