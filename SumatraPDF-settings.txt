@@ -186,11 +186,11 @@ Shortcuts [
 		Key = u
 	]
 	[
-		Cmd = CmdScrollDown 3
+		Cmd = CmdScrollDown
 		Key = J
 	]
 	[
-		Cmd = CmdScrollUp 3
+		Cmd = CmdScrollUp
 		Key = K
 	]
 	[
